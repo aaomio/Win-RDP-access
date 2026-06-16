@@ -37,7 +37,6 @@ Open the group and go to the Members tab, then add users.
 
 Example:
 User1  
-User2  
 
 Only include users who require Remote Desktop access.
 

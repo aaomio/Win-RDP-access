@@ -8,8 +8,8 @@ The policy applies centrally to both the Domain Controller and File Server.
 
 ## 1. Open Group Policy Management
 
-Run:
-gpmc.msc
+Use: Win + R
+Run: gpmc.msc
 
 ---
 
@@ -26,7 +26,7 @@ RDP-Access-Control
 
 Navigate to:
 
-Computer Configuration → Policies → Windows Settings → Security Settings → Local Policies → User Rights Assignment
+Computer Configuration\Policies\Windows Settings\Security Settings\Local Policies\User Rights Assignment
 
 ---
 

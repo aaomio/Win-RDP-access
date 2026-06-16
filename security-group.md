@@ -40,13 +40,4 @@ User1
 
 Only include users who require Remote Desktop access.
 
----
-
-## 4. Verify Group Membership
-
-On a domain-joined machine, run:
-
-```cmd
-whoami /groups
-```
 

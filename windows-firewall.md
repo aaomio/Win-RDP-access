@@ -3,8 +3,8 @@
 This section configures Windows Defender Firewall to allow Remote Desktop (RDP) traffic within an Active Directory domain environment.
 
 ## 1. Open Firewall Management
-Run:
-wf.msc
+Use: Win + R
+Run: wf.msc
 
 ---
 

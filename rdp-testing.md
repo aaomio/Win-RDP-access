@@ -34,8 +34,8 @@ Ensure resolution to correct IP address.
 
 ## 3. Start Remote Desktop Client
 
-Run:
-mstsc
+Use: Win + R
+Run: mstsc
 
 Enter target server:
 DC-01

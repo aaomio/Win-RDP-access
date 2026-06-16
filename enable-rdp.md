@@ -3,8 +3,8 @@
 This section enables Remote Desktop Services on a Windows Server within an Active Directory environment.
 
 ## 1. Open System Configuration
-Run:
-sysdm.cpl
+Use: Win + R
+Run: sysdm.cpl
 
 Navigate to the Remote tab.
 
@@ -19,7 +19,6 @@ Open services.msc.
 Ensure Remote Desktop Services is running.
 
 ## 4. Verify Listening Port
-Run:
-netstat -an | find "3389"
+Run: netstat -an | find "3389"
 
 Confirm state is LISTENING.

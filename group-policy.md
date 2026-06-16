@@ -8,8 +8,11 @@ The policy applies centrally to both the Domain Controller and File Server.
 
 ## 1. Open Group Policy Management
 
-Use: Win + R
-Run: gpmc.msc
+Use: 
+Win + R
+
+Run: 
+gpmc.msc
 
 ---
 

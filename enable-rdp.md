@@ -3,8 +3,11 @@
 This section enables Remote Desktop Services on a Windows Server within an Active Directory environment.
 
 ## 1. Open System Configuration
-Use: Win + R
-Run: sysdm.cpl
+Use: 
+Win + R
+
+Run: 
+sysdm.cpl
 
 Navigate to the Remote tab.
 

@@ -16,32 +16,6 @@ Users container or a dedicated OU for administrative groups.
 
 ## 2. Create New Group
 
-Right-click → New\Group
-
-Set the following:
-
-Group Name:
-Remote-RDP-Users
-
-Group Scope:
-Global
-
-Group Type:
-Security
-
----
-
-## 3. Add Members to Group
-
-Open the group → Members tab → Add users.
-
-Example:
-User1
-User2
-
-Only include users who require Remote Desktop access.
-## 2. Create New Group
-
 Right-click then select New Group
 
 Set the following:

@@ -45,7 +45,8 @@ Only include users who require Remote Desktop access.
 ## 4. Verify Group Membership
 
 On a domain-joined machine, run:
-whoami /groups
 
-Confirm that Remote-RDP-Users appears in the list.
+```cmd
+whoami /groups
+```
 

@@ -17,7 +17,11 @@ Select: Allow remote connections to this computer.
 Enable: Allow connections only from computers running Network Level Authentication (NLA).
 
 ## 3. Verify RDP Service
-Open services.msc.
+Use:
+Win + R
+
+Run:
+services.msc.
 
 Ensure Remote Desktop Services is running.
 

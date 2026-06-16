@@ -21,7 +21,7 @@ Use:
 Win + R
 
 Run:
-services.msc.
+services.msc
 
 Ensure Remote Desktop Services is running.
 
